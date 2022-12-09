@@ -10,7 +10,7 @@
 * The source file being submitted is called UserExperience.java. The purpose of this file is to detail a user experience
 */
 
-/** Creating a class called UserExperience which stores information about an user
+/** Creating a class called UserExperience which stores information about a user
 * @author Cael Formanek
 * @version 1.0
 */
