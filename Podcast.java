@@ -14,7 +14,7 @@
 */
 import java.util.*;
 
-public class Podcast extends Content implements Comparable<Podcast> {
+public class Podcast extends Content {
     
     /** Private member variables */
     private int episodeNum;
