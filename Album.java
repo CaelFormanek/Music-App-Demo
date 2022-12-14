@@ -17,7 +17,7 @@
 
 import java.util.*;
 
-public class Album extends ContentCollections{
+public class Album extends ContentCollections {
 
     /** Default constructor */
     public Album() {
