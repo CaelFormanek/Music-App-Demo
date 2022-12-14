@@ -19,7 +19,7 @@
 import java.util.*;
 
 // possibly implement interface here
-public abstract class Accounts {
+public class Accounts {
 
   /** Declaring private member variables */
   private String name;
