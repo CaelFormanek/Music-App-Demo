@@ -15,7 +15,7 @@
 
 import java.util.*;
 
-public class Song extends Content implements Comparable<Song> {
+public class Song extends Content {
 
   /** Default constructor */
   public Song() {
