@@ -1,10 +1,9 @@
 1) The following identifying information:
 
 a. Cael Formanek
-b. 2416167
-c. cformanek@chapman.edu
-d. CPSC 231 - 03
-e. MP4: Music App
+b. cformanek@chapman.edu
+c. CPSC 231 - 03
+d. MP4: Music App
 
 2) Accounts.java, AccountStorage.java, Album.java, Artist.java, Content.java, ContentCollections.java, Listener.java, Driver.java, Playlist.java, Podcast.java, Song.java, UserExperience.java
 
