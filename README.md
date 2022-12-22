@@ -1,7 +1,7 @@
 1) The following identifying information:
 
 a. Cael Formanek
-b. cformanek@chapman.edu 
+b. cformanek@chapman.edu  
 c. CPSC 231 - 03
 d. MP4: Music App
 
